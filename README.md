@@ -1,2 +1,2 @@
 # KMMIKalkulator
-Kalkulator 
+Simple calculator with Js 
